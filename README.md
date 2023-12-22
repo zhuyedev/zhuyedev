@@ -1,6 +1,6 @@
 ##  Hi~，I'm Barry Zhu. <img alt="hi" src="./images/Hi.gif" width="30px" max-width="30px" />
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=yliaz)
+![visitors](https://komarev.com/ghpvc/?username=zhuyedev)
 
 <img align="right" alt="Visual Studio Code" width="200px" src="./images/a-joke.png" />
 
