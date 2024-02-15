@@ -11,8 +11,17 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 ## Something about me
 
 - 👨‍💻 I'm currently working on my [blog website](https://zhuye.dev), check it out!
-- ✌🏻  2023 Goals: Contribute more to Open Source projects.
-- 📮  Reach me at: zhuyestu@gmail.com.
+- ✌🏻 2023 Goals: Contribute more to Open Source projects.
+- 📮 Reach me at: zhuyestu@gmail.com.
+
+## Recent Activities
+
+- Complete the entire design of a UI component library on Figma, and develop it using `Headless UI` and `Tailwind CSS`.
+- Complete the development of my portfolio website built with `Next.js`.
+- Learn about web3 and blockchain development.
+- Create a demo gallery to showcase my development projects.
+- Translate some technical documents to help other domestic developers.
+- Relearn computer science fundamentals following the [CS-roadmap](https://github.com/zhuyedev/cs-roadmap).
 
 ## 🔧 Languages and tools
 
