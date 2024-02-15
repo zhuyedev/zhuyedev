@@ -22,6 +22,7 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 - Create a demo gallery to showcase my development projects.
 - Translate some technical documents to help other domestic developers.
 - Relearn computer science fundamentals following the [CS-roadmap](https://github.com/zhuyedev/cs-roadmap).
+- Dive deeper into learning `Next.js` and `Nest.js`.
 
 ## 🔧 Languages and tools
 
