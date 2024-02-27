@@ -11,8 +11,8 @@ I am also an open-source enthusiast. I learned a lot from the open-source commun
 ## Something about me
 
 - 👨‍💻 I'm currently working on my [blog website](https://zhuye.dev), check it out!
-- ✌🏻 2023 Goals: Contribute more to Open Source projects.
-- 📮 Reach me at: zhuyestu@gmail.com.
+- ✌🏻 2024 Goals: Contribute more to Open Source projects.
+- 📮 Reach me at: zhuyedev@gmail.com.
 
 ## Recent Activities
 
